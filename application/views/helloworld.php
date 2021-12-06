@@ -77,7 +77,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     <?php echo 'Universitas     : ',$kampus?><br>
     <?php echo 'Prodi           : ',$prodi?><br>
     <?php echo 'Fakultas        : ',$fakultas?><br>
-    <?php echo 'Hobi            : ',$hobi?><br>
+    <?php echo 'Olahraga        : ',$olahraga?><br>
 
 </div>
 
